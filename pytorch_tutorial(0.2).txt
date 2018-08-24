@@ -112,3 +112,37 @@ for t in range(500):
     optimizer.zero_grad()
     loss.backward()
     optimizer.step()
+
+
+
+Getting Dense Word Embeddings
+How can we solve this problem? That is, how could we actually encode semantic similarity in words? Maybe we think up some semantic attributes. For example, we see that both mathematicians and physicists can run, so maybe we give these words a high score for the “is able to run” semantic attribute. Think of some other attributes, and imagine what you might score some common words on those attributes.
+
+Wle can get a measure of similarity between these words by doing:
+
+Similarity(physicist,mathematician)=qphysicist⋅qmathematician
+
+Although it is more common to normalize by the lengths:
+
+Similarity(physicist,mathematician)=qphysicist⋅qmathematician∥q\physicist∥∥qmathematician∥=cos(ϕ)
+Similarity(physicist,mathematician)=qphysicist⋅qmathematician‖q\physicist‖‖qmathematician‖=cos⁡(ϕ)
+Where ϕϕ is the angle between the two vectors. That way, extremely similar words (words whose embeddings point in the same direction) will have similarity 1. Extremely dissimilar words should have similarity -1.
+
+You can think of the sparse one-hot vectors from the beginning of this section as a special case of these new vectors we have defined, where each word basically has similarity 0, and we gave each word some unique semantic attribute. These new vectors are dense, which is to say their entries are (typically) non-zero.
+
+But these new vectors are a big pain: you could think of thousands of different semantic attributes that might be relevant to determining similarity, and how on earth would you set the values of the different attributes? Central to the idea of deep learning is that the neural network learns representations of the features, rather than requiring the programmer to design them herself. So why not just let the word embeddings be parameters in our model, and then be updated during training? This is exactly what we will do. We will have some latent semantic attributes that the network can, in principle, learn. Note that the word embeddings will probably not be interpretable. That is, although with our hand-crafted vectors above we can see that mathematicians and physicists are similar in that they both like coffee, if we allow a neural network to learn the embeddings and see that both mathematicians and physicisits have a large value in the second dimension, it is not clear what that means. They are similar in some latent semantic dimension, but this probably has no interpretation to us.
+
+In summary, word embeddings are a representation of the *semantics* of a word, efficiently encoding semantic information that might be relevant to the task at hand. You can embed other things too: part of speech tags, parse trees, anything! The idea of feature embeddings is central to the field.
+
+
+3.Why we need to normolize the image data
+
+Subtracting the dataset mean serves to "center" the data. Additionally, you ideally would like to divide by the sttdev of that feature or pixel as well if you want to normalize each feature value to a z-score.
+
+The reason we do both of those things is because in the process of training our network, we're going to be multiplying (weights) and adding to (biases) these initial inputs in order to cause activations that we then backpropogate with the gradients to train the model.
+
+We'd like in this process for each feature to have a similar range so that our gradients don't go out of control (and that we only need one global learning rate multiplier).
+
+Another way you can think about it is deep learning networks traditionally share many parameters - if you didn't scale your inputs in a way that resulted in similarly-ranged feature values (ie: over the whole dataset by subtracting mean) sharing wouldn't happen very easily because to one part of the image weight w is a lot and to another it's too small.
+
+You will see in some CNN models that per-image whitening is used, which is more along the lines of your thinking.

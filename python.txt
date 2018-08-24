@@ -1,0 +1,2 @@
+1.In python list -1 means the last element in the list.
+2.the parameter -1 in python reshape function means the number of the row or column is unknown.
