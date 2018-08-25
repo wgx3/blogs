@@ -16,6 +16,7 @@ validation dataset vs test dataset
     如果验证集具有足够泛化代表性，是不需要再整出什么测试集的；
     整个测试集往往就是为了在验证集只是非训练集一个小子集的情况下，好奇一下那个靠训练集（训练）和验证集（调参）多次接力训练出来的模型是不是具有了泛化性能，因而加试一下图个确定。
 
+-------------------------------------------------------------------------------
 
 回归、分类与聚类：三大方向剖解机器学习算法的优缺点
 
@@ -283,3 +284,19 @@ DBSCAN 是一个基于密度的算法，它将样本点的密集区域组成一�
     Python 实现：http://scikit-learn.org/stable/modules/clustering.html#dbscan
 
     R 实现：https://cran.r-project.org/web/packages/dbscan/index.html
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+scikit-learn中fit_transform()与transform()到底有什么区别，能不能混用？
+
+    二者的功能都是对数据进行某种统一处理（比如标准化~N(0,1)，将数据缩放(映射)到某个固定区间，归一化，正则化等）
+        fit_transform(partData)对部分数据先拟合fit，找到该part的整体指标，如均值、方差、最大值最小值等等（根据具体转换的目的），然后对该partData进行转换transform，从而实现数据的标准化、归一化等等。。
+	    根据对之前部分fit的整体指标，对剩余的数据（restData）使用同样的均值、方差、最大最小值等指标进行转换transform(restData)，从而保证part、rest处理方式相同。
+	        必须先用fit_transform(partData)，之后再transform(restData)
+		    如果直接transform(partData)，程序会报错
+		        如果fit_transfrom(partData)后，使用fit_transform(restData)而不用transform(restData)，虽然也能归一化，但是两个结果不是在同一个“标准”下的，具有明显差异。
+
