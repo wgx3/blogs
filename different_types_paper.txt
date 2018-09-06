@@ -1,0 +1,332 @@
+关于论文文章类型的叙述letter, perspective, focus, article等的不同：
+
+ 
+
+写论文就会经常好奇，你也发论文，我也发论文，为何不同的论文级别不同？同级别的论文里又有不同的文章类型，到底都是怎么回事儿呢？
+
+一般发表分为三个等级：Poster、Proceedings、Journal（依次NB起来）
+
+ 
+
+Poster直译就是海报。一个学术会议举行以后，大家会首先在报告厅里听paper，听完报告散场以后，会有个展示厅，里面放满了海报。海报就是海报（废话），一张大大的纸，上面用简单的图形和一些文字叙述下你的研究内容，你站在海报旁边，当与会者对你的东西有兴趣的时候，你就给他讲一讲。
+
+ 
+
+Proceedings直译为会议记录，感觉挺低端的吧，是不是小编去开会在一旁一边在那儿写大家说的话呢？不是的哈。其实Proceedings是最广泛的论文集，大多数说自己写了Paper（论文）的人，其实都是写的Proceedings。参加一个Conference（会议，或者说学术报告会）之前，你得交一篇Paper，如果成功被接收，那么就会收录在Proceedings里面，这个Proceedings就是一本书，里面放满了Paper。但是交完以后并没有结束，还得去Conference上给大家讲一遍你的研究。
+
+ 
+
+Journal直译为期刊，这可不是什么儿童期刊，一月一本的漫画之类的东西。它有多NB呢？你在Journal上如果成功发2篇Paper，那么你就可以博士毕业了。许多博士延期2、3年甚至4、5年才毕业，就是因为研究成果不够达到在Journal上发Paper的资格，得磕破了头继续研究。Journal审核十分严格，而且审核周期非常漫长，不是一般随随便便的研究能够发表的。同样叫Paper，所以一定要搞清楚是Proceeding还是Journal上的Paper了哈。
+
+ 
+
+论文类型Journal、magazin、transaction、letter等的区别
+
+“Journal期刊：刊登关于某特殊主题的文章的期刊
+magazine杂志：综合性内容的期刊
+transactions(学会等的)议事录,会报,会刊
+proceedings记录, 会议录; 年[学]报; (科学文献)汇编
+
+letter 可以是简短的学术报告，例如对别人发表的论文在验证上提出疑议
+
+二、IEEE分类
+IEEE的paper大体分为3类，letter,magazine,journal/transaction.
+IEEE letter:属于快报形式，一般发表最新的研究成果，文章要求短小，理论推导要求不高。
+IEEE Magazine:这才是属于杂志类，一般要求用文字和图表来表述些最新研究成果，不允许有过多的公式推导
+IEEE Jour/Trans:这两个属于同一类，期刊杂志，但两者面向的读者和表达方式上略有不同。两者都需要有很大的创新点，和比较详细的公式推导。
+    Trans:具体到一个相对较细的专业方向上，如IEEE Trans. Sign.Proc.。
+    而jour:面向的读者群却更加广泛,如IEEE J-SAC,所以jour需要对背景知识有更加全面的介绍。虽然jour没有trans.的专注度高，但是其理论深度的要求也很高，而且其影响因子往往远远高于Trans.”
+
+ 
+
+国内应聘高校职位的时候，对自己发过的论文分类常有以下检索：
+
+SCI检索
+EI检索
+ISTP
+SSCI
+CSSCI
+CSCD
+中文核心期刊
+　　《科技会议录索引》（简称ISTP）创刊于1978年，由美国科学情报研究所出版，ISTP（Index to Scientific & Technical Proceedings）国内也叫它CPCI（Conference Proceedings Citation Index）。《工程索引》（简称EI）创刊于1884年，国际核心EI检索是美国工程信息公司（Engineering information Inc.）出版的著名工程技术类综合性检索工具。
+
+　　Web of Science是美国Thomson Reuters公司基于WEB开发的产品，Web of Science包括SCI、SSCI、A&HCI、CPCI（原ISTP）和CPCI-SSH及两个化学数据库（CCR、IC），以ISI Web of Knowledge作为检索平台。
+
+　　详细说明在http://www.ei-istp.com/index.html
+
+以下文章引用自——Nature （About Article Type）
+
+Original research (submissions welcome)
+
+In Nature journals, original research is published either as an Article, Letter, Resource (presents a large dataset of broad usefulness, interest and significance) Brief Communication or Technical Report.
+
+Nature does not publish the Brief Communication, Resource or Technical Report format. In Nature, there are fewer Articles published per week (typically around 3) than there are Letters (typically around 17). Some, but not all, Articles and Letters are published online before they appear in the print edition of the journal (AOP, or Advance Online Publication). The Nature guide to authors provides detailed information about these categories.
+
+In the Nature monthly journals, research is published as Articles, all of which are published online ahead of the print editions. Some, but not all of the monthly journals publish research in Letter, Resource, Brief Communication or Technical Report format. Each journal describes the content type it publishes in its own guide to authors.
+
+... ... （详见Nature Article Type的链接）
+
+ 
+
+ 
+
+ 
+
+1.4 Other contributions to Nature
+Please access the other submitted material pages for further details on any of the contribution types below.
+
+News and Comment
+Correspondence
+Obituaries
+Opinion
+Books & Arts
+Futures
+News & Views
+Insights, Reviews and Perspectives
+Analysis
+Hypothesis
+Careers
+Technology Features
+Outlooks 
+上面文章引用自——《Nature》：For Authors —— Manuscript formatting guide
+
+ 
+
+以下文章引用自——New Journal of Chemistry (From ROYAL SOCIETY OF CHEMISTRY)
+
+New Journal of Chemistry publishes:
+
+Full papers
+Letters
+Perspectives
+Focus articles
+See more information about these article types
+
+Full papers
+Full papers contain original and significant work that is likely to be of wide general appeal or exceptional interest in its specialised area. However, work that has appeared in print in a short form such as an NJC Letter or Chemical communication is normally acceptable.
+
+Letters
+NJC Letters are concise articles that report results of immediate interest to the chemistry community; they may be complete publications, though a subsequent paper may be justified, and should contain a brief experimental section.
+
+Perspectives
+Perspectives are brief reviews giving the personal viewpoint of a leading scientist in their area of research, setting it in the context of the work of others and looking forward to future developments.
+
+In some cases, pairs of collaborating scientists from different disciplines are invited to each give their perspective on their common field of research in order to demonstrate the benefits of collaborative research and facilitate dialogue between communities.
+
+The majority of Perspectives are invited by the editorial office, however suggestions of suitable Perspectives in the form of a brief synopsis and biography of the author, are welcome.
+
+Focus
+Focus articles centre on a specific topic, giving a personal view and a critical evaluation of the current state of knowledge. These short articles summarise the key results, the work currently being done, the challenges ahead and how the field is evolving.
+
+ 
+
+以下来自维基百科：
+
+ 
+
+There are several types of journal articles; the exact terminology and definitions vary by field and specific journal, but often include:
+
+Letters (also called communications, and not to be confused with letters to the editor) are short descriptions of important current research findings that are usually fast-tracked for immediate publication because they are considered urgent.
+Research notes are short descriptions of current research findings that are considered less urgent or important than Letters.
+Articles are usually between five and twenty pages and are complete descriptions of current original research findings, but there are considerable variations between scientific fields and journals – 80-page articles are not rare in mathematics or theoretical computer science.
+Supplemental articles contain a large volume of tabular data that is the result of current research and may be dozens or hundreds of pages with mostly numerical data. Some journals now only publish this data electronically on the Internet.
+Review articles do not cover original research but rather accumulate the results of many different articles on a particular topic into a coherent narrative about the state of the art in that field. Review articles provide information about the topic and also provide journal references to the original research. Reviews may be entirely narrative, or may provide quantitative summary estimates resulting from the application of meta-analytical methods.
+Data papers are articles dedicated to describe datasets. This type of article is becoming popular and journals exclusively dedicated to them have been established, e.g. Scientific Data and Earth System Science Data.
+Video papers are a recent addition to practice of scientific publications. They most often combine an online video demonstration of a new technique or protocol combined with a rigorous textual description.[2]
+The formats of journal articles vary, but many follow the general IMRAD scheme recommended by the International Committee of Medical Journal Editors. Such articles begin with an abstract, which is a one-to-four-paragraph summary of the paper. The introduction describes the background for the research including a discussion of similar research. The materials and methods or experimental section provides specific details of how the research was conducted. The results and discussion section describes the outcome and implications of the research, and the conclusion section places the research in context and describes avenues for further exploration.
+
+In addition to the above, some scientific journals such as Science will include a news section where scientific developments (often involving political issues) are described. These articles are often written by science journalists and not by scientists. In addition, some journals will include an editorial section and a section for letters to the editor. While these are articles published within a journal, in general they are not regarded as scientific journal articles because they have not been peer-reviewed.
+
+ 
+
+关于影响因子的举例，来自Advances in Computer Science : an International Journal：
+
+ 
+
+From Wikipedia, the free encyclopedia:
+
+"The impact factor (IF) of an academic journal is a measure reflecting the average number of citations to recent articles published in that journal. It is frequently used as a proxy for the relative importance of a journal within its field, with journals with higher impact factors deemed to be more important than those with lower ones. The impact factor was devised by Eugene Garfield, the founder of the Institute for Scientific Information. Impact factors are calculated yearly starting from 1975 for those journals that are indexed in the Journal Citation Reports.
+In any given year, the impact factor of a journal is the average number of citations received per paper published in that journal during the two preceding years. For example, if a journal has an impact factor of 3 in 2008, then its papers published in 2006 and 2007 received 3 citations each on average in 2008. The 2008 impact factor of a journal would be calculated as follows:
+
+    2008 impact factor = A/B.
+
+where:
+
+    A = the number of times that all items published in that journal in 2006 and 2007 were cited by indexed publications during 2008.
+    B = the total number of "citable items" published by that journal in 2006 and 2007. ("Citable items" for this calculation are usually articles, reviews, proceedings, or notes; not editorials or letters to the editor). "
+
+
+Alternative Impact Factor
+
+Several journal metrics are calculated. The first metric is an alternative impact factor which is based on Google Scholar's citation count.
+The journal impact factor (JIF) normally referred to is the proprietary journal impact factor from Thomson Reuters calculated based on the Web of Science (WOS) and published in the Journal Citation Reports® (JCR). We call this the JCR®JIF. DOAJ writes: "There is only one official, universally recognised impact factor that is generated by Thomson Reuters; it is a proprietary measure run by a profit making organisation. It runs against the ethics and principles of open access." This journal has no JCR®JIF, but an alternative Google-based impact factor.
+
+A = cites to articles published in 2013 - 2014 = 132
+B = number of articles published in 2013 - 2014 = 165
+Impact Factor for 2013 - 2014 = A/B = 132/165 = 0.8 (Google Scholar citations, data October 22, 2015)
+
+Please see also the List of Citations for ACSIJ:
+ACSIJ Google Scholar Profile
+
+ 
+
+其他方面的参考资料：
+
+Scholarly paper（Categories of papers） 刊载在《Academic publishing》维基百科方面的解释
+
+Journal Citation Reports® 来自于汤森路透(Thomson Reuters)公司的引用统计报告（其公司的报告被认为是较为权威的评判论文与期刊质量的报告）
+
+Top 100 Materials Scientists, 2000-10, Ranked by Citation Impact 来自Science Watch的论文引用统计
+
+---------------------------------------------------------------
+
+
+IEEE Letter: 属于快报形式, 一般发表最新的研究成果, 文章要求短小, 理论推导要求不高;
+IEEE Magazine: 这才是属于杂志类, 一般要求用文字和图表来表述些最新研究成果, 不允许有过多的公式推导;
+IEEE Jour/Trans: 这两个属于同一类, 期刊杂志, 但两者面向的读者和表达方式上略有不同, 两者都需要有很大的创新点, 和比较详细的公式推导;
+    Trans: 具体到一个相对较细的专业方向上, 如IEEE Trans. Sign. Proc. ;
+    Jour: 面向的读者群却更加广泛, 如IEEE J-SAC, 所以Jour需要对背景知识有更加全面的介绍.
+虽然Jour没有Trans的专注度高, 但是其理论深度的要求也很高, 而且其影响因子往往远远高于Trans.
+
+
+稍微研究了一下IEEE Transaction, Journal, Letter 的区别，仅供参考
+
+1. 仅从目标来说, Transaction, Journal, Letter 仅仅是名称不同而已
+以 IEEE协会的出版物为例
+The mission of IEEE Transactions, Journals, and Letters is to provide archival publications that are of lasting value to the engineering community. These periodicals provide the profession with content that has been peer-reviewed and published with the objective of creating an historical account of progress in the field.
+兩個重點: 1) 是為了提供一個保存有長久價值的知識的出版品 
+                2) 經過 peer-review 的程序
+
+2. 但是如果要更細分這三種出版品的話, 先以 IEEE Power Electronics Letters 和
+IEEE Transactions on Power Electronics 為例說明 Letter 和 Transaction的不同,
+IEEE Power Electronics Letters
+        This electronic publication will be devoted to the rapid publication of short manuscripts of archival value in the general area of power electronics. Power electronics is the underlying technology for a vast portion of electrical energy processing.
+IEEE Transactions on Power Electronics
+        The development of power electronics technology. This technology encompasses the effective use of electronic components, the application of circuit theory and design techniques, and the development of analytical tools toward efficient electronic conversion, control, and conditioning of electric power.
+可以看到的是, Letter 的內容通常是 Short Paper, 有即時性的,
+而 Transaction 收錄的內容則沒有這個在時間上的特性.
+
+3. 至於 Journal 的內容, 是屬於比較雜的.
+Journal 所收錄的內容介於 Transaction 及 Letter 間,可收錄 Short Paper 也可收錄 Regular Paper.
+以 IEEE Journal of Quantum Electronics 為例,
+IEEE Journal of Quantum Electronics is published monthly.It comprises original contributions, both regular papers and letters, in the broad field of the science and technology of quantum electronics of either a device-, subject-, or system-oriented nature. IEEE Lasers and Electro-Optics Society Field of Interest Lasers, optical devices, optical fibers and associated lightwave technology and their application in systems and subsystems, in which the quantum electronic devices are key elements. The Society is concerned with the research,development, design, manufacture, and applications of materials, devices and systems, and with the various scientific and technological activities which contribute to the useful expansion of the field of quantum electronics and applications.
+除了IEEE, 在資訊科學領域另一個重量級學會 ACM, 對於命名一個 New Publication 則有下列建議
+    Proposed name of new publication
+    If this is a peer-reviewed journal it will probably be called ACM Transactions on XXX (although there are some exceptions).Other ACM publications must use other names. You may propose a single name or several possible names for the Board to consider.
+在選擇名字時還要考慮到他的型態
+    Format and type of publication
+    Are you proposing a peer-reviewed journal, a magazine, an online newsletter, or some other type of publication? Are you proposing a print publication or an online-only publication? How frequently will this publication publish new articles? How long will a typical article be? How many articles will be included in each issue? Will this publication include something other than traditional articles (software, multimedia, message boards, etc.)
+另外, 在文章中有這麼一句話,
+    Please provide an overview of the proposed editorial process.
+    Will articles go through a full refereeing process, or a less
+    rigorous review process (transactions must use a refereeing process)
+這裡說明了 Transaction 必須經過 Refereeing 才可以
+如果有人對其他形式的 publication 如 magazine, newsletter, proceeding 有興趣
+IEEE 的 IEEE Policy 6.6 倒是有一些描述可供參考.
+
+---------------------------------------------------------------
+
+Trans：深入研究，全面分析，长度以双栏12页为佳；要求数学公式理论推导与逻辑严谨证明；
+Mag：通常以专刊形式发表，投稿之前要有合适专题才行；普及性的，不要求数学公式；长度长度以双栏4-8页为佳（SPM除外，难度异常难）；
+Letter：短小精干，创新点很明确即可，为某个新idea抢先发表占坑；
+学术水平（一般这么认为）：Trans>Letter>Mag;
+影响力（多少高校）：Trans>Mag>Letter (但也有意外，IEEE SPM要更难一些)。
+
+
+
+
+1)
+都是 Journal Article
+
+2)
+Transactions: 着重在深入而完整(详细)的研究,对论文篇幅的长度要求, 比较高
+Journal: 同 Transactions, 但某方面要求没有 Transactions 那么严谨,
+
+Letter: 比较要求创新, 或是新颖的想法, 及要求内容长度, 不要太长, 有点类似综述类, 对以往的研究工作及文献回顾做简要的叙述, 没有 Journal 或是 Transactions 那么细~
+Comment 的 paper 都会放在这类~不会放在 Transactions 或是 Journal.
+
+Magazine: 文章长度介于 Letter 跟 Journal 之间,要求的写法比较接近 news 或是 technology report, 前三者, 一定要有 Abstract, Introduction 及 Conclusion 等学术论文写作的规范, magazine 则是根据内容的属性会调整论文的结构与写法~
+有些 magazine 不只是 SCI  检索, 对写作的要求(不是单指文法)还是有所最低的要求~
+
+
+
+
+
+IEEE的paper大体分为3类，letter,magazine,journal/transaction.
+IEEE letter:属于快报形式，一般发表最新的研究成果，文章要求短小，理论推导要求不高。
+IEEE Magazine:这才是属于杂志类，一般要求用文字和图表来表述些最新研究成果，不允许有过多的公式推导
+IEEE Jour/Trans:这两个属于同一类，期刊杂志，但两者面向的读者和表达方式上略有不同。两者都需要有很大的创新点，和比较详细的公式推导。
+Trans:具体到一个相对较细的专业方向上，如IEEE Trans. Sign.Proc.。
+而Jour:面向的读者群却更加广泛,如IEEE J-SAC,所以jour需要对背景知识有更加全面的介绍。虽然Jour没有Trans.的专注度高，但是其理论深度的要求也很高，而且其影响因子往往远远高于Trans.
+
+---------------------------------------------------------------
+
+一、主要分类
+Journal期刊：刊登关于某特殊主题的文章的期刊
+magazine杂志：综合性内容的期刊
+transactions(学会等的)议事录,会报,会刊
+proceedings记录, 会议录; 年[学]报; (科学文献)汇编
+
+二、IEEE分类
+IEEE的paper大体分为3类，letter,magazine,journal/transaction.
+IEEE letter:属于快报形式，一般发表最新的研究成果，文章要求短小，理论推导要求不高。
+IEEE Magazine:这才是属于杂志类，一般要求用文字和图表来表述些最新研究成果，不允许有过多的公式推导
+IEEE Jour/Trans:这两个属于同一类，期刊杂志，但两者面向的读者和表达方式上略有不同。两者都需要有很大的创新点，和比较详细的公式推导。
+    Trans:具体到一个相对较细的专业方向上，如IEEE Trans. Sign.Proc.。
+    而jour:面向的读者群却更加广泛,如IEEE J-SAC,所以jour需要对背景知识有更加全面的介绍。虽然jour没有trans.的专注度高，但是其理论深度的要求也很高，而且其影响因子往往远远高于Trans.
+
+三、其他说明
+1 仅从目标来说， Transaction, Journal, Letter 仅仅是名称不同而已 。以 IEEE协会的出版物为例
+The mission of IEEE Transactions, Journals, and Letters is to provide archival publications that are of lasting value to the engineering community. These periodicals provide the profession with content that has been peer-reviewed and published with the objective of creating an historical account of progress in the field.
+两个重点： 1）是为了提供一个保存有长久价值的知识的出版品；2） 经过 peer-review 的程序 。
+
+2 但是如果要更细分這三种出版品的話, 先以 IEEE Power Electronics Letters 和 IEEE Transactions on Power Electronics 为例说明 Letter 和 Transaction的不同：
+ 1）IEEE Power Electronics Letters
+ This electronic publication will be devoted to the rapid publication of short manuscripts of archival value in the general area of power electronics. Power electronics is the underlying technology for a vast portion of electrical energy processing.
+ 2）IEEE Transactions on Power Electronics
+ The development of power electronics technology. This technology encompasses the effective use of electronic components, the application of circuit theory and design techniques, and the development of analytical tools toward efficient electronic conversion, control, and conditioning of electric power.
+可以看到的是, Letter 的内容通常是 Short Paper, 有即时性的, 而 Transaction 收录的内容则没有这个在时间上的特性.
+
+3 至于Journal 的內容, 是属于比较难的。Journal 所收录的內容介于Transaction 及 Letter之间,可收录 Short Paper 也可收录 Regular Paper. 以 IEEE Journal of Quantum Electronics 为例：
+IEEE Journal of Quantum Electronics is published monthly.It comprises original contributions, both regular papers and letters, in the broad field of the science and technology of quantum electronics of either a device-, subject-, or system-oriented nature. IEEE Lasers and Electro-Optics Society Field of Interest Lasers, optical devices, optical fibers and associated lightwave technology and their application in systems and subsystems, in which the quantum electronic devices are key elements. The Society is concerned with the research,development, design, manufacture, and applications of materials, devices and systems, and with the various scientific and technological activities which contribute to the useful expansion of the field of quantum electronics and applications.
+
+除了 IEEE, 在通信科学领域另一个重量级学会 ACM,对于命名一个 New Publication 则有下列建议 ：
+    Proposed name of new publication
+    If this is a peer-reviewed journal it will probably be called ACM Transactions on XXX (although there are some exceptions).Other ACM publications must use other names. You may propose a single name or several possible names for the Board to consider.
+在选择名字时还要考虑到它的类型 ：
+    Format and type of publication
+    Are you proposing a peer-reviewed journal, a magazine, an online newsletter, or some other type of publication? Are you proposing a print publication or an online-only publication? How frequently will this publication publish new articles? How long will a typical article be? How many articles will be included in each issue? Will this publication include something other than traditional articles (software, multimedia, message boards, etc.)
+另外, 在其中有这么一句话：
+    Please provide an overview of the proposed editorial process.
+    Will articles go through a full refereeing process, or a less
+    rigorous review process (transactions must use a refereeing process)
+这就说明了 Transaction必须经过Refereeing 才可以 。
+如果有人对其他形式的 publication 如 magazine, newsletter, proceeding 有兴趣 IEEE 的 IEEE Policy 6.6 倒是有一些描述可供參考.
+
+---------------------------------------------------------------
+
+1.Transactions used to have a very specific meaning. From the New Oxford American Dictionary:
+
+transactions
+published reports of proceedings at the meetings of a learned society
+
+In this historical usage, it is synonymous to proceedings, i.e. it is a published report of a conference or a set of meetings. Many learned societies have transactions: Philosophical Transactions of the Royal Society, Transactions of the Faraday Society, Transactions of the AMS, etc.. Some other institutions use the term “proceedings”, e.g. Proceedings of the National Academy of Science.
+
+These transactions or proceedings were separate from journals, which do not have to coincide with a conference or meeting. However, with time the customs changed, and many of these reputable publishing venues became independent from actual meetings or conferences. But, because they were reputable (and famous is some cases), the name remained.
+
+2.For all practical purposes, there is not much of a difference between IEEE journals, transactions, and letters. On the IEEE website, they are all included under the broad category 'Journals and Magazines.' However, they publish different article types. While journals publish articles on more specific topics or specialized areas, transactions publish articles of a broader interest, while letters usually refer to short communications rather than full-fledged research articles.
+
+IEEE Transactions generally contain major manuscripts approximately 8 to 10 printed pages or 24 to 30 double-spaced pages.
+
+IEEE Journals follow the same length criteria as Transactions, but often are focused on selected topics and more specialized areas of interest.
+
+IEEE Letters are generally short papers of approximately three to four printed pages or nine double-spaced pages. 
+
+3.Transactions used to have a very specific meaning. From the New Oxford American Dictionary:
+
+transactions
+published reports of proceedings at the meetings of a learned society
+
+In this historical usage, it is synonymous to proceedings, i.e. it is a published report of a conference or a set of meetings. Many learned societies have transactions: Philosophical Transactions of the Royal Society, Transactions of the Faraday Society, Transactions of the AMS, etc.. Some other institutions use the term “proceedings”, e.g. Proceedings of the National Academy of Science.
+
+These transactions or proceedings were separate from journals, which do not have to coincide with a conference or meeting. However, with time the customs changed, and many of these reputable publishing venues became independent from actual meetings or conferences. But, because they were reputable (and famous is some cases), the name remained.
